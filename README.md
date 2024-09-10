@@ -1,3 +1,7 @@
+To enhance your guide with the requested images and videos, here’s a refined version with placeholders for embedding the media:
+
+---
+
 ### Step-by-Step Guide for AWS Bedrock Image Generator
 
 The following guide will help you set up, run, and use the **AWS Bedrock Image Generator** project from the repository. This project enables you to generate images using AWS Bedrock’s Stable Diffusion models with a simple and user-friendly Streamlit interface.
@@ -93,6 +97,10 @@ Now that the app is running, you can use it to generate images with AWS Bedrock:
 
 5. **Download the Image**: Once the images are generated, you can download them directly using the download buttons provided below each image.
 
+**Example Generated Image**:
+
+![Generated Image](C:/Users/Hoang%20Kha/Downloads/New%20folder%20(3)/images/generated_image_1.png)
+
 ---
 
 ### Example
@@ -102,6 +110,8 @@ Here’s how a typical session would look:
 - **Prompt**: `A futuristic city with flying cars under a blue sky`
 - **Advanced Settings**: Orientation = `Landscape`, Steps = `50`, Seed = `12345`
 - **Output**: A high-resolution image based on the provided prompt.
+
+![Futuristic City Image](/images/generated_image_2.png)
 
 ---
 
@@ -123,4 +133,9 @@ If you want to further customize the app (e.g., add new features or change the U
 
 This project is a simple yet powerful way to leverage AWS Bedrock's Stable Diffusion models for image generation. By following the steps outlined above, you should be able to successfully set up and use the application.
 
+**Video Demonstration**:
+
+![AWS Bedrock Demo Video](/videos//bedrock-generative-images.mp4)
+
 Happy image generating!
+
