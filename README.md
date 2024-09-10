@@ -99,7 +99,7 @@ Now that the app is running, you can use it to generate images with AWS Bedrock:
 
 **Example Generated Image**:
 
-![Generated Image](C:/Users/Hoang%20Kha/Downloads/New%20folder%20(3)/images/generated_image_1.png)
+![Generated Image](./images/generated_image_1.png)
 
 ---
 
@@ -111,7 +111,7 @@ Here’s how a typical session would look:
 - **Advanced Settings**: Orientation = `Landscape`, Steps = `50`, Seed = `12345`
 - **Output**: A high-resolution image based on the provided prompt.
 
-![Futuristic City Image](/images/generated_image_2.png)
+![Futuristic City Image](./images/generated_image_2.png)
 
 ---
 
@@ -135,7 +135,7 @@ This project is a simple yet powerful way to leverage AWS Bedrock's Stable Diffu
 
 **Video Demonstration**:
 
-![AWS Bedrock Demo Video](/videos//bedrock-generative-images.mp4)
+![AWS Bedrock Demo Video](./videos//bedrock-generative-images.mp4)
 
 Happy image generating!
 
