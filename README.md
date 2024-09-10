@@ -135,7 +135,7 @@ This project is a simple yet powerful way to leverage AWS Bedrock's Stable Diffu
 
 **Video Demonstration**:
 
-![AWS Bedrock Demo Video](./videos//bedrock-generative-images.mp4)
+![AWS Bedrock Demo Video](./videos/bedrock-generative-images.mp4)
 
 Happy image generating!
 
