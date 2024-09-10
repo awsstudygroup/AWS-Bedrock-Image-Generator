@@ -99,7 +99,7 @@ Now that the app is running, you can use it to generate images with AWS Bedrock:
 
 **Example Generated Image**:
 
-![Generated Image](./images/generated_image_1.png)
+![Generated Image](./images/generated_image.png)
 
 ---
 
@@ -111,7 +111,7 @@ Here’s how a typical session would look:
 - **Advanced Settings**: Orientation = `Landscape`, Steps = `50`, Seed = `12345`
 - **Output**: A high-resolution image based on the provided prompt.
 
-![Futuristic City Image](./images/generated_image_2.png)
+![Generated Image](./images/generated_image_1.png)
 
 ---
 
