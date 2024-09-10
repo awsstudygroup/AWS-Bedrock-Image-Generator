@@ -1,6 +1,4 @@
-To enhance your guide with the requested images and videos, here’s a refined version with placeholders for embedding the media:
 
----
 
 ### Step-by-Step Guide for AWS Bedrock Image Generator
 
