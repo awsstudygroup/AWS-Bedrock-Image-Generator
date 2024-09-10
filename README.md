@@ -133,9 +133,5 @@ If you want to further customize the app (e.g., add new features or change the U
 
 This project is a simple yet powerful way to leverage AWS Bedrock's Stable Diffusion models for image generation. By following the steps outlined above, you should be able to successfully set up and use the application.
 
-**Video Demonstration**:
-
-![AWS Bedrock Demo Video](./videos/bedrock-generative-images.mp4)
-
 Happy image generating!
 
